@@ -28,7 +28,7 @@ $ npm install or yarn dev
 $ yar dev or npm dev
 ```
 
-<h2> 🎲 Run the Front end (server) </h2>
+<h2> 🎲 Run the Front end </h2>
 ```bash
 # Go to the frontend folder
 $ cd ..
