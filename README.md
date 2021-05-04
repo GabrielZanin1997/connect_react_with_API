@@ -38,7 +38,6 @@ $ cd frontend
 $ yarn start
 or
 $ yarn build
-
 ```
 
 
