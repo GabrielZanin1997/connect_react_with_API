@@ -3,7 +3,7 @@
 
 <p align="center">Here we are learning about how express works, routes and middlewares</p>
 
-<h2> Pré-requisitos </h2>
+<h2> Requirements </h2>
 
 <p>First of all, you will need to have this tools installed on your PC:
 [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/), [Insomnia] https://insomnia.rest/ and [React] (https://reactjs.org/)
